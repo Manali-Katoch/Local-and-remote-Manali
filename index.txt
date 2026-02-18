@@ -1,3 +1,4 @@
 This is a Index.txt
 I am the first file in the main Branch
-I have been update to the local remote
+I have been updated on  local
+I have been updated on remote 
